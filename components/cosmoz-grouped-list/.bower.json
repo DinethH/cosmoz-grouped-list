@@ -1,0 +1,39 @@
+{
+  "name": "cosmoz-grouped-list",
+  "main": "cosmoz-grouped-list.html",
+  "homepage": "https://github.com/Neovici/cosmoz-grouped-list",
+  "authors": [
+    "Neovici Development"
+  ],
+  "description": "Polymer component for grouped iron-lists",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "router",
+    "cosmoz"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.1.5",
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.7",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.4",
+    "iron-list": "PolymerElements/iron-list#~1.1.4"
+  },
+  "_release": "24eafd691d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "24eafd691d4b224f5fdc8447ce864e04e53bfc1c"
+  },
+  "_source": "git://github.com/neovici/cosmoz-grouped-list.git",
+  "_target": "master",
+  "_originalSource": "neovici/cosmoz-grouped-list",
+  "_direct": true
+}
